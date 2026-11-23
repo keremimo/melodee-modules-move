@@ -1,0 +1,17 @@
+{
+    "id": "melodee-modules",
+    "name": "Melodee Modules",
+    "abbrev": "MMOD",
+    "version": "0.1.0",
+    "description": "Plays Melodee synth modules (.mmod files) from its Modules folder",
+    "author": "Ellic Studio",
+    "dsp": "dsp.so",
+    "api_version": 2,
+    "capabilities": {
+        "audio_out": true,
+        "midi_in": true,
+        "aftertouch": true,
+        "chainable": true,
+        "component_type": "sound_generator"
+    }
+}

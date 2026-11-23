@@ -1,0 +1,3 @@
+[submodule "melodee-modules"]
+	path = melodee-modules
+	url = ../melodee-modules
